@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvnlab">
+    <output-path>$PROJECT_DIR$/classes/artifacts/mvnlab</output-path>
+    <root id="archive" name="mvnlab.war" />
+  </artifact>
+</component>
